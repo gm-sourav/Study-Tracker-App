@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Study Tracker</string>
+    <string name="nav_timer">Timer</string>
+    <string name="nav_subjects">Subjects</string>
+    <string name="nav_stats">Stats</string>
+    <string name="nav_history">History</string>
+    <string name="nav_arch">Architecture</string>
+    
+    <string name="timer_study">Study Focus</string>
+    <string name="timer_short_break">Short Break</string>
+    <string name="timer_long_break">Long Break</string>
+    <string name="btn_start">Start</string>
+    <string name="btn_pause">Pause</string>
+    <string name="btn_resume">Resume</string>
+    <string name="btn_stop">Finish &amp; Save</string>
+    <string name="btn_reset">Reset</string>
+    <string name="btn_add_subject">Add Subject</string>
+    <string name="btn_log_session">Log Session</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_edit">Edit</string>
+    
+    <string name="stats_today">Today</string>
+    <string name="stats_this_week">This Week</string>
+    <string name="stats_streak">Day Streak</string>
+    <string name="stats_total_time">Total Studied</string>
+    <string name="subject_target">Weekly Target</string>
+    <string name="history_title">Study Log</string>
+    <string name="empty_history">No study sessions logged yet. Hit start on the timer or log one manually!</string>
+    <string name="empty_subjects">No subjects added yet. Add your courses like OS, DBMS, or DSA to get started.</string>
+</resources>

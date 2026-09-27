@@ -1,0 +1,6 @@
+{
+  "name": "Study Tracker",
+  "description": "Log study sessions, track subjects, build streaks, set daily/weekly goals, and master your focus with Pomodoro mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
